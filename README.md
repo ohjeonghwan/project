@@ -1,2 +1,1 @@
- post-generator by João Pedro Barbosa
-A post generator using the NewsCatcher News API.
+I'm trying to create a news site for API practice and learning.
